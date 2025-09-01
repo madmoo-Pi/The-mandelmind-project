@@ -1,6 +1,6 @@
 MandelMind - Enhanced Fractal Consciousness System
 
-https://img.shields.io/badge/python-3.8%2B-blue https://img.shields.io/badge/license-MIT-green https://img.shields.io/badge/status-experimental-orange
+MIT liscence rights reserved free for research
 
 🌟 Overview
 
