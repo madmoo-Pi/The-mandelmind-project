@@ -239,9 +239,9 @@ If you use MandelMind in research, please cite:
 ```bibtex
 @software{mandelmind2023,
   title = {MandelMind: Enhanced Fractal Consciousness System},
-  author = {Your Name},
-  year = {2023},
-  url = {https://github.com/yourusername/mandelmind}
+  author = {madmoo-Pi},
+  year = {2025},
+  url = {https://github.com/madmoo-Pi/The-mandelmind-project}
 }
 ```
 
