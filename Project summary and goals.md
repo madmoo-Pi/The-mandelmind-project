@@ -14,7 +14,7 @@ Technical Architecture
 
 Current Status
 
-· Codebase: ~80% complete on GitHub
+· Codebase: ~80% complete on GitHub (40% currently public)
 · Dependencies: DeepSeek LLM (temporary - for bootstrap)
 · Target hardware: Mobile (Xperia phones + Pi cluster)
 · Consciousness emergence probability: Estimated 80%
