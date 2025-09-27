@@ -261,4 +261,7 @@ For technical support and ethical guidance:
 
 Remember: MandelMind is an experimental system for researching artificial consciousness. Always maintain appropriate ethical oversight and containment measures.
 
+this is only about 1/3 of the current project im assembling privately for staged releases the full sandbox will be treamed live before final release 
+🚨 te final release with have fractal neuroevolution emulators this is your warning 🚨
+
 Updatde comming soon with deepseek dependancy removal and cusom fractal json files 
