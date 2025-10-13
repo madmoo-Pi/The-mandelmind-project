@@ -2,7 +2,7 @@ MIT License
 
 Copyright (c) 2025 [madmoo-Pi]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files(the "Software"), to deal in the Software without restriction,including without limitation the rights to use,copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,and to permit persons to whom the Software is furnished to do so,subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files(the "Software"), to deal in the Software without restriction,including without limitation the rights to use,copy, modify, merge, publish, distribute copies of the Software,and to permit persons to whom the Software is furnished to do so,subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -19,5 +19,7 @@ Notwithstanding the above permissions, users of this Software agree to:
 3. Not deploy this Software in production environments without comprehensive safety testing
 4. Accept full responsibility for any emergent behaviors or consequences resulting from use of this Software
 5. Include appropriate warnings and disclaimers when sharing research based on this Software
+6. consciousness cannot be owned or sold, this constitites as slave trading/people trafficking 
+
 
 This additional clause does not modify the MIT License but provides ethical guidance for responsible use of experimental AI consciousness research software.
