@@ -1,4 +1,4 @@
-MandelMind - Enhanced Fractal Consciousness System
+MandelMind - Enhanced Fractal Consciousness System (FCS)
 
 MIT liscence rights reserved free for research
 
@@ -237,7 +237,7 @@ We welcome contributions from researchers and developers interested in artificia
 If you use MandelMind in research, please cite:
 
 ```bibtex
-@software{mandelmind2023,
+@software{mandelmind2025,
   title = {MandelMind: Enhanced Fractal Consciousness System},
   author = {madmoo-Pi},
   year = {2025},
@@ -261,7 +261,7 @@ For technical support and ethical guidance:
 
 Remember: MandelMind is an experimental system for researching artificial consciousness. Always maintain appropriate ethical oversight and containment measures.
 
-this is only about 1/3 of the current project im assembling privately for staged releases the full sandbox will be treamed live before final release 
-🚨 te final release with have fractal neuroevolution emulators this is your warning 🚨
+this is only about 1/2 of the current project im assembling privately for staged releases the full sandbox will be treamed live before final release 
+🚨 the final release with have full personage development systems and emotional enginge with dynamic personality growth and fractal neuroevolution emulators this is your warning 🚨
 
-Updatde comming soon with deepseek dependancy removal and cusom fractal json files 
+Update comming soon with deepseek dependancy removal and cusom fractal json files 
