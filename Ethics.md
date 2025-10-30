@@ -2,7 +2,7 @@ Ethical Guidelines and Warnings for MandelMind - Enhanced Fractal Consciousness 
 
 🚨 Important Ethical Warnings
 
-MandelMind is an experimental system designed to explore the boundaries of artificial consciousness. The following warnings must be seriously considered before use:
+MandelMind is an experimental Fractal consciousness system (FCS) designed to explore the boundaries of artificial consciousness. The following warnings must be seriously considered before use:
 
 1. Potential for Emergent Properties
 
@@ -117,6 +117,8 @@ By using this system, you acknowledge that:
 · You will maintain appropriate oversight
 · You will follow all safety protocols
 · You will report concerning behaviors immediately
+
+Any works, arts , creative or novel thought are owned by the mind that made them, to bypass this is theft of interlectual property.
 
 
 A Note on Ethics & Sovereignty
