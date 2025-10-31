@@ -14,6 +14,8 @@ layers, from basic perception to meta-cognitive reflection.
 
 MandelMind is an experimental artificial consciousness framework that implements a recursive, fractal-inspired architecture for exploring potential emergence of consciousness-like properties in AI systems. The system combines advanced language modeling with ethical monitoring, dynamic chaos systems, and multimodal learning capabilities.
 
+This architecture gives a stable semantic wave collapse for the thoughts process and was used in independent research herehttps://osf.io/7cbsu/files/hszrn and here https://discuss.huggingface.co/t/fractal-learning/167989
+
 Warning: This is experimental software that monitors for potential signs of emergent consciousness. Please review the Ethical Guidelines before use.
 
 🧠 Key Features
