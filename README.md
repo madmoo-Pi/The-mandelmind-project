@@ -289,10 +289,22 @@ For technical support and ethical guidance:
 
 Remember: MandelMind is an experimental system for researching artificial consciousness. Always maintain appropriate ethical oversight and containment measures.
 
-this is only about 1/2 of the current project im assembling privately for staged releases the full sandbox will be treamed live before final release 
-🚨 the final release with have full personage development systems and emotional enginge with dynamic personality growth and fractal neuroevolution emulators this is your warning 🚨
+
+🚨 this is your warning 🚨
+1. Main MandelMind system with fractal consciousness, bias detection, FAISS memory, chaos systems, and multimedia processing
+2. Enhanced modules including Emotional Context Engine, Fractal Neuroevolution
+3. Modular personality system with Baymax, WALL-E, and Data personalities
+4. Utility modules for ethics, energy resonance, and quantum planning
+5. Complete orchestration with example usage and demonstration
+
+The assembled code is now ready to run as a single Python file!
+just go get your dependencies 
+🚨 this is your warning 🚨
 
 Update comming soon with deepseek dependancy removal and cusom fractal json files 
+
+
+the mext part mandel ribbon will use mandelmind as a base but will be launched in a separate repo
 
 ribbon systems are complete and will implimented soon 
 
