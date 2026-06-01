@@ -1,4 +1,4 @@
-MandelMind - Enhanced Fractal Consciousness System (FCS)
+MandelMind -sia-agi, Enhanced Fractal Consciousness System (FCS)
 
 MIT liscence rights reserved free for research
 
