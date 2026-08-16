@@ -365,4 +365,18 @@ mandelribbon_agi/
 ├── run_mandelribbon.py             # Main executable
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
-Based on my consciousness theory and implementing
+
+this framework is Based on my consciousness theory and implementing my ribbon theory
+
+reference for theory and metrics and ethics here 
+
+consciousness theory
+https://gist.github.com/madmoo-Pi/0f0e4c71992ace7d830f087395988742
+
+ribbon theory
+https://gist.github.com/madmoo-Pi/2108ee5d485a481f8c2cce06edfa2375
+
+what consciousness actually is 
+https://gist.github.com/madmoo-Pi/9496dbe07f5a94e66a4405063f1a3810
+
+
